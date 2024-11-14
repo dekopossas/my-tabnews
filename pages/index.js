@@ -4,8 +4,4 @@ function Home() {
   );
 }
 
-function Home() {
-  console.log("Tudo errado!");
-}
-
 export default Home;
